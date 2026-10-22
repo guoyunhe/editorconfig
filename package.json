@@ -1,6 +1,6 @@
 {
   "name": "@guoyunhe/editorconfig",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Guo Yunhe's EditorConfig presets",
   "type": "module",
   "bin": "bin/index.js",
