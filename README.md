@@ -1,7 +1,6 @@
-# editorconfig
-Guo Yunhe's EditorConfig presets
+# @guoyunhe/editorconfig
 
-## Usage
+Guo Yunhe's EditorConfig presets
 
 ```
 npx @guoyunhe/editorconfig
