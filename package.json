@@ -1,0 +1,10 @@
+{
+  "name": "@guoyunhe/editorconfig",
+  "version": "0.1.0",
+  "description": "Guo Yunhe's EditorConfig presets",
+  "type": "module",
+  "bin": "bin/index.js",
+  "files": ["bin", "presets"],
+  "license": "MIT",
+  "publishConfig": { "access": "public" }
+}
