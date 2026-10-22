@@ -4,7 +4,15 @@
   "description": "Guo Yunhe's EditorConfig presets",
   "type": "module",
   "bin": "bin/index.js",
-  "files": ["bin", "presets"],
+  "files": [
+    "bin",
+    "presets"
+  ],
   "license": "MIT",
-  "publishConfig": { "access": "public" }
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.11.0"
+  }
 }
