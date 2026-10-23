@@ -3,10 +3,13 @@
   "version": "0.2.0",
   "description": "Guo Yunhe's EditorConfig presets",
   "type": "module",
-  "bin": "bin/index.js",
   "files": [
-    "bin",
-    "presets"
+    "cpp",
+    "go",
+    "java",
+    "node",
+    "python",
+    "rust"
   ],
   "license": "GPL-3.0",
   "devEngines": {
@@ -17,8 +20,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "dependencies": {
-    "@clack/prompts": "^1.8.1"
   }
 }
