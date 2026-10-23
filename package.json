@@ -1,6 +1,6 @@
 {
   "name": "@guoyunhe/editorconfig",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "EditorConfig preset for Node.js projects",
   "keywords": [
     "editorconfig",
