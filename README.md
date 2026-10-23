@@ -1,9 +1,7 @@
-# @guoyunhe/editorconfig
+# Guo Yunhe's EditorConfig
 
-Guo Yunhe's EditorConfig presets
+## Node.js Projects
 
-```
+```bash
 npm init @guoyunhe
 ```
-
-Use the `@guoyunhe` initializer to set up your project.

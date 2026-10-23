@@ -1,15 +1,26 @@
 {
   "name": "@guoyunhe/editorconfig",
   "version": "0.2.0",
-  "description": "Guo Yunhe's EditorConfig presets",
+  "description": "EditorConfig preset for Node.js projects",
+  "keywords": [
+    "editorconfig",
+    "node",
+    "nodejs",
+    "code-style",
+    "formatting"
+  ],
+  "homepage": "https://github.com/guoyunhe/editorconfig#readme",
+  "bugs": {
+    "url": "https://github.com/guoyunhe/editorconfig/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyunhe/editorconfig.git"
+  },
+  "author": "Guo Yunhe",
   "type": "module",
   "files": [
-    "cpp",
-    "go",
-    "java",
-    "node",
-    "python",
-    "rust"
+    "node"
   ],
   "license": "GPL-3.0",
   "devEngines": {
